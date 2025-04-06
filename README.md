@@ -1,2 +1,2 @@
-# Learning-CSS
+#The-Odin-Project
 Intro to CSS
